@@ -1,0 +1,24 @@
+{
+  "name": "gp-15-chunk",
+  "version": "0.0.4",
+  "description": "gp15-chunk",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "gp",
+    "14",
+    "15",
+    "chunk"
+  ],
+  "author": "lurongtao@126.com",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
